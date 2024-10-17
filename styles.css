@@ -1,0 +1,26 @@
+.comment{
+    
+    height: 40px;
+    border: none;
+    width: fit-content;
+    background-color: gray;
+}
+
+img{
+    width: 40px;
+    border: 1px solid black ;
+    border-radius: 50%;
+    vertical-align:middle;
+}
+
+input{
+    border: none;
+    vertical-align: middle;
+}
+.tweet{
+    color: white;
+    background-color: rgb(29, 155, 240);
+    padding: 10px 13px ;
+    border: 1px solid rgb(29, 155, 240);
+    border-radius: 20px;
+}
